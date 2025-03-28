@@ -1,0 +1,22 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore Visual Studio & VS Code settings
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore compiled DLLs and EXE files
+*.exe
+*.dll
+
+# Ignore user-specific files
+*.log
+*.cache
+
+# Ignore audio file (optional, if not needed in Git)
+audio.wav
+.vs
